@@ -5,9 +5,6 @@
 <p align="center">
   <a href="[#🗺️ Aventuras Neurais]">🗺️ Aventuras Neurais</a> &nbsp;&bull;&nbsp;
   <a href="[#👻 Monstrinhos]">👻 Monstrinhos</a> &nbsp;&bull;&nbsp;
-  <a href="[#🛠️ Construído com]">🛠️ Construído com</a> &nbsp;&bull;&nbsp;
-  <a href="[#✒️ Autores]">✒️ Autores</a> &nbsp;&bull;&nbsp;
-  <a href="[#📄 Licença]">📄 Licença</a>
 </p>
 
 ## 🗺️ Aventuras Neurais
