@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="[#🗺️ Aventuras Neurais]">🗺️ Aventuras Neurais</a> &nbsp;&bull;&nbsp;
-  <a href="[#🖥️ Funcionalidade]">🖥️  Funcionalidade</a> &nbsp;&bull;&nbsp;
+  <a href="[#👻 Monstrinhos]">👻 Monstrinhos</a> &nbsp;&bull;&nbsp;
   <a href="[#🛠️ Construído com]">🛠️ Construído com</a> &nbsp;&bull;&nbsp;
   <a href="[#✒️ Autores]">✒️ Autores</a> &nbsp;&bull;&nbsp;
   <a href="[#📄 Licença]">📄 Licença</a>
@@ -13,13 +13,14 @@
 ## 🗺️ Aventuras Neurais
 No Reino de Lumi, a Maga Patolina embarca em mais uma aventura, agora como integrante da Legião da Alvorada na guilda dos Magos! Venha embarcar nessa jornada de dados✨🦢
 
+Nesse repositório, se encontram as atividades realizadas durante a displina Redes Neurais e Algoritmos Genéticos pela aluna Giovana Martins, ministrada pelo professor Daniel Roberto Cassar na Ilum escola de Ciência.
 
 > "Quá quá."  
 > – Sábio pato Mestre da Computação
 
 <img src="Maga patolina.jpg" width="300">
 
-Nesse repositório, se encontram as atividades realizadas durante a displina Redes Neurais e Algoritmos Genéticos pela aluna Giovana Martins, ministrada pelo professor Daniel Roberto Cassar na Ilum escola de Ciência.
+## 👻 Monstrinhos
 
 Monstrinho 3.1
 
