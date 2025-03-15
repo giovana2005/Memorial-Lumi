@@ -7,6 +7,6 @@ No Reino de Lumi, a Maga Patolina embarca em mais uma aventura, agora como integ
 
 <img src="Maga patolina.jpg" width="300">
 
-Nesse repositório, se encontram as atividades realizadas durante o semestre letivo da disciplina Redes Neurais e Algoritmos Genéticos na Ilum escola de ciência, ministrada pelo professor Daniel Roberto Cassar. 
+Nesse repositório, se encontram as atividades realizadas durante a displina Redes Neurais e Algoritmos Genéticos pela aluna Giovana Martins, ministrada pelo professor Daniel Roberto Cassar na Ilum escola de Ciência. Os códigos foram feitos visando a aprendizagem e fixação de coteúdo.
 
 
