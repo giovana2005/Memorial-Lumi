@@ -21,4 +21,6 @@ Nesse repositório, se encontram as atividades realizadas durante a displina Red
 
 Monstrinho 3.1 - Grafo de uma expressão, seu forward pass e backpropagation feito em folha sulfite para fixação do conteúdo.
 
+Monstrinho 3.2 - Classes de elementos e moléculas químicas. 
+
 
