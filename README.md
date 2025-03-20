@@ -23,4 +23,5 @@ Monstrinho 3.1 - Grafo de uma expressão, seu forward pass e backpropagation fei
 
 Monstrinho 3.2 - Classes de elementos e moléculas químicas. 
 
+Monstrinho 3.3 - Classes de materiais semicondutores com e sem dopantes.
 
