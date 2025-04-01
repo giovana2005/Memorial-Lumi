@@ -27,3 +27,5 @@ Monstrinho 3.3 - Classes de materiais semicondutores com e sem dopantes utilizan
 
 Monstrinho 3.4 - Explorando métodos dunder com classe de soluções eletrolíticas. 
 
+Monstrinho 3.5 - Funções de ativação linear, tangente hiperbólica e SoftMax para rede neural
+
