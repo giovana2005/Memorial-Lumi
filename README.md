@@ -33,5 +33,5 @@ Monstrinho 3.6 - Plotagem das curvas de aprendizado para dados de treino e valid
 
 ## 🐙🕸️ Feras formidáveis 
 
-Fera 4.2 - Rede neural MLP construída com Pytorch e parada antecipada 
-Esse trabalho foi produzido em conjunto com  [@nomedeusuario](https://github.com/nomedeusuario)
+Fera 4.2 - Rede neural MLP construída com Pytorch e parada antecipada. 
+Esse trabalho foi produzido em conjunto com  [@Eloisa-Souza](https://github.com/Eloisa-Souza)
