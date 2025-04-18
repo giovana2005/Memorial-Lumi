@@ -30,3 +30,8 @@ Monstrinho 3.4 - Explorando métodos dunder com classe de soluções eletrolíti
 Monstrinho 3.5 - Funções de ativação linear, tangente hiperbólica e SoftMax para rede neural
 
 Monstrinho 3.6 - Plotagem das curvas de aprendizado para dados de treino e validação de uma MLP feita em python puro.
+
+## 🐙🕸️ Feras formidáveis 
+
+Fera 4.2 - Rede neural MLP construída com Pytorch e parada antecipada 
+Esse trabalho foi produzido em conjunto com  [@nomedeusuario](https://github.com/nomedeusuario)
