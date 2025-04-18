@@ -29,3 +29,4 @@ Monstrinho 3.4 - Explorando métodos dunder com classe de soluções eletrolíti
 
 Monstrinho 3.5 - Funções de ativação linear, tangente hiperbólica e SoftMax para rede neural
 
+Monstrinho 3.6 - Plotagem das curvas de aprendizado para dados de treino e validação de uma MLP feita em python puro.
