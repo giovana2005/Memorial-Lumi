@@ -5,6 +5,7 @@
 <p align="center">
   <a href="[#🗺️ Aventuras Neurais e Magias Genéticas]">🗺️ Aventuras Neurais</a> &nbsp;&bull;&nbsp;
   <a href="[#👻 Monstrinhos]">👻 Monstrinhos</a> &nbsp;&bull;&nbsp;
+  <a href="[#🐙🕸️ Feras formidáveis]">👻 Monstrinhos</a> &nbsp;&bull;&nbsp;
 </p>
 
 ## 🗺️ Aventuras Neurais e Magias Genéticas
