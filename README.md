@@ -3,9 +3,9 @@
 # !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge License"](https://img.shields.io/badge/License%20-%20MIT%20-%20green) !["Badge Status"](https://img.shields.io/badge/Status-Em_constru%C3%A7%C3%A3o-yellow) !["Badge Reino"](https://img.shields.io/badge/Reino-Lumi-violet) !["Badge Continente"](https://img.shields.io/badge/Continente-Senepem-red) 
 
 <p align="center">
-  <a href="[#🗺️ Aventuras Neurais e Magias Genéticas]">🗺️ Aventuras Neurais</a> &nbsp;&bull;&nbsp;
+  <a href="[#🗺️ Aventuras Neurais e Magias Genéticas]">🗺️ Aventuras Neurais e Magias Genéticas</a> &nbsp;&bull;&nbsp;
   <a href="[#👻 Monstrinhos]">👻 Monstrinhos</a> &nbsp;&bull;&nbsp;
-  <a href="[#🐙🕸️ Feras formidáveis]">👻 Monstrinhos</a> &nbsp;&bull;&nbsp;
+  <a href="[#🐙🕸️ Feras formidáveis]">🐙🕸️ Feras formidáveis</a> &nbsp;&bull;&nbsp;
 </p>
 
 ## 🗺️ Aventuras Neurais e Magias Genéticas
