@@ -32,6 +32,8 @@ Monstrinho 3.5 - Funções de ativação linear, tangente hiperbólica e SoftMax
 
 Monstrinho 3.6 - Plotagem das curvas de aprendizado para dados de treino e validação de uma MLP feita em python puro.
 
+Monstrinho 3.7 - Comparação de tempo de otimização de algoritmos de busca aleatória, busca em grade e algoritmos genéticos.
+
 ## 🐙🕸️ Feras formidáveis 
 
 Fera 4.2 - Rede neural MLP construída com Pytorch e parada antecipada. 
