@@ -38,3 +38,8 @@ Monstrinho 3.7 - Comparação de tempo de otimização de algoritmos de busca al
 
 Fera 4.2 - Rede neural MLP construída com Pytorch e parada antecipada. 
 Esse trabalho foi produzido em conjunto com  [@Eloisa-Souza](https://github.com/Eloisa-Souza)
+
+Fera 4.6 - Rede neural CNN construída com Pytorch. 
+Esse trabalho foi produzido em conjunto com  [@Eloisa-Souza](https://github.com/Eloisa-Souza)
+
+Fera 4.7 - Rede neural AutoEnconder construída com Pytorch. 
