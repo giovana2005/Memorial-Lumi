@@ -34,6 +34,13 @@ Monstrinho 3.6 - Plotagem das curvas de aprendizado para dados de treino e valid
 
 Monstrinho 3.7 - Comparação de tempo de otimização de algoritmos de busca aleatória, busca em grade e algoritmos genéticos.
 
+Monstrinho 3.8 - Uso de algoritmo genético para encontrar os pontos mínimos da função Himemblau.
+
+Monstrinho 3.9 - Resolução de um problema de otimização com diferentes parâmetros. 
+
+Monstrinho 3.10 - Algoritmo de otimização com dois operadores de mutação para o problema do Caixeiro Viajante.
+
+
 ## 🐙🕸️ Feras formidáveis 
 
 Fera 4.2 - Rede neural MLP construída com Pytorch e parada antecipada. 
@@ -43,3 +50,6 @@ Fera 4.6 - Rede neural CNN construída com Pytorch.
 Esse trabalho foi produzido em conjunto com  [@Eloisa-Souza](https://github.com/Eloisa-Souza)
 
 Fera 4.7 - Rede neural AutoEnconder construída com Pytorch. 
+
+Fera 4.9 - Resolve o problema da Senha Variável utilziando algoritmos genéticos.
+
